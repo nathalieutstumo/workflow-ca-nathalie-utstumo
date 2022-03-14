@@ -20,6 +20,9 @@ async function makeGQLCall() {
   `,
  });
 console.log (json);
+
+
+
 //  document.body.innerHTML = (json.data.country.name);
 
 //  document.body.innerHTML = (json.data.country.emoji);
@@ -36,6 +39,8 @@ console.log (json);
 </div>
     `;
   }
+
+  
 // }
 
 
