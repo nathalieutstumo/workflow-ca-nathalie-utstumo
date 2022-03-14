@@ -557,7 +557,7 @@ async function makeGQLCall() {
     //  for (let i = 0; i < json.length; i++) {
     document.querySelector('.results').innerHTML += `
       <div class="card">
-<div> ${json.data.country.emoji}</div>
+<div class="emoji"> ${json.data.country.emoji}</div>
 <h2>${json.data.country.name}</h2>
 <p>${json.data.country.currency}</p>
 </div>

@@ -1,0 +1,32 @@
+.results {
+  background-color: white;
+  height: 300px;
+  width: 300px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: auto;
+  margin-top: 300px;
+}
+
+body {
+  font: 100% Helvetica, sans-serif;
+  color: red;
+  font-size: 2rem;
+  background-color: blue;
+}
+
+.emoji {
+  font-size: 4rem;
+  margin-bottom: -20px;
+}
+
+.card {
+  margin-top: 20px;
+  text-align: center;
+}
+
+/*# sourceMappingURL=index.b2625c6b.css.map */

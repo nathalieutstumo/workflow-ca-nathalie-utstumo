@@ -1,0 +1,26 @@
+.results {
+  background-color: white;
+  height: 300px;
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  margin-top: 300px;
+}
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+  font-size: $font-size;
+  background-color: blue;
+}
+
+.emoji {
+  font-size: $emoji-size;
+  margin-bottom: -20px;
+}
+
+.card {
+  margin-top: 20px;
+  text-align: center;
+}
